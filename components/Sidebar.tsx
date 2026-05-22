@@ -12,7 +12,7 @@ export default function Sidebar({ territories, activeTerritory, onSelect }: Prop
     <aside style={{ width: 268, minWidth: 268, height: '100%', background: '#161b27', borderRight: '1px solid rgba(255,255,255,0.07)', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
       <div style={{ padding: '18px 18px 14px', borderBottom: '1px solid rgba(255,255,255,0.07)' }}>
         <div style={{ fontFamily: 'monospace', fontSize: 18, fontWeight: 700, color: '#f0ede8' }}>
-          sound<span style={{ color: '#7c6af7' }}>map</span>
+          plugged<span style={{ color: '#7c6af7' }}>map</span>
         </div>
         <div style={{ fontSize: 11, color: '#4a4f66', marginTop: 4 }}>La radio de ton territoire</div>
       </div>
